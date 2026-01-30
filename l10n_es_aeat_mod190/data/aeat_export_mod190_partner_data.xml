@@ -6,6 +6,7 @@
         <field
             name="name"
         >Exportación modelo 190 - Tipo de Registro 2 – Registro de cliente</field>
+        <field name="date_end">2024-12-31</field>
         <field name="model_number">190</field>
     </record>
     <!-- (1) TIPO DE REGISTRO (1) -->
